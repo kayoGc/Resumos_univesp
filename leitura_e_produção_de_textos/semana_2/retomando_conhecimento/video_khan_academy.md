@@ -1,4 +1,4 @@
-# Teorias de como é feita uma lingua 
+# Teorias da língua 
 
 ## Universialismo
 
